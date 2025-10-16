@@ -9,11 +9,11 @@ The HR Analytics Dashboard provides a comprehensive look at the organization’s
 
 ## 🎯 Objectives
 
-Analyze attrition rates and employee distribution across multiple dimensions.
+- Analyze attrition rates and employee distribution across multiple dimensions.
 
-Identify key factors influencing employee satisfaction and retention.
+- Identify key factors influencing employee satisfaction and retention.
 
-Enable data-driven HR decision-making through interactive visualizations.
+- Enable data-driven HR decision-making through interactive visualizations.
 
 ## ⚙️ Dashboard Features
 
@@ -26,40 +26,40 @@ Enable data-driven HR decision-making through interactive visualizations.
 
 ## 🛠️ Tools & Technologies
 
-Tableau – Data visualization and dashboard development
+- Tableau – Data visualization and dashboard development
 
-Excel – Data preprocessing and cleaning
+- Excel – Data preprocessing and cleaning
 
-PowerPoint – For presentation and reporting
+- PowerPoint – For presentation and reporting
 
 ## 📁 Dataset
 
 The dataset includes employee details such as:
 
-Age, Gender, Department, Education Field
+- Age, Gender, Department, Education Field
 
-Job Role and Satisfaction Rating
+- Job Role and Satisfaction Rating
 
-Attrition Status, Salary, and Years at Company
+- Attrition Status, Salary, and Years at Company
 
 (A publicly available HR dataset was used for analysis.)
 
 ## 📈 Key Insights
 
-16.12% overall attrition rate with most exits in the R&D department (56%).
+- 16.12% overall attrition rate with most exits in the R&D department (56%).
 
-Employees aged 25–34 showed the highest attrition rate (29%).
+- Employees aged 25–34 showed the highest attrition rate (29%).
 
-Sales and R&D roles saw notable job dissatisfaction.
+- Sales and R&D roles saw notable job dissatisfaction.
 
-Female attrition (87) was lower than male attrition (150), suggesting possible role distribution gaps.
+- Female attrition (87) was lower than male attrition (150), suggesting possible role distribution gaps.
 
 ## 🚀 Impact
 
 The dashboard simplifies complex HR data into actionable insights, empowering decision-makers to:
 
-Improve retention strategies.
+- Improve retention strategies.
 
-Design targeted engagement programs.
+- Design targeted engagement programs.
 
-Align HR planning with organizational goals.
+- Align HR planning with organizational goals.

@@ -3,11 +3,11 @@
 An interactive Tableau Dashboard designed to uncover key insights into employee attrition, satisfaction, and workforce demographics.
 This project helps HR teams make data-driven decisions by visualizing trends that influence employee retention, engagement, and performance.
 
-📊 Overview
+## 📊 Overview
 
 The HR Analytics Dashboard provides a comprehensive look at the organization’s workforce through visual storytelling. It highlights attrition patterns, age and gender demographics, and job satisfaction trends across departments and education fields — enabling HR professionals to identify underlying causes of attrition and take strategic action.
 
-🎯 Objectives
+## 🎯 Objectives
 
 Analyze attrition rates and employee distribution across multiple dimensions.
 
@@ -15,7 +15,7 @@ Identify key factors influencing employee satisfaction and retention.
 
 Enable data-driven HR decision-making through interactive visualizations.
 
-⚙️ Dashboard Features
+## ⚙️ Dashboard Features
 
 ✅ KPIs Overview: Displays total employees, attrition count, attrition rate, active employees, and average age.
 📈 Department-wise Attrition: Highlights which departments experience higher turnover rates.
@@ -24,7 +24,7 @@ Enable data-driven HR decision-making through interactive visualizations.
 🎓 Education Field Analysis: Examines how education background impacts attrition trends.
 ⚧ Gender & Age Correlation: Shows attrition rate by gender across various age groups.
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Tableau – Data visualization and dashboard development
 
@@ -32,7 +32,7 @@ Excel – Data preprocessing and cleaning
 
 PowerPoint – For presentation and reporting
 
-📁 Dataset
+## 📁 Dataset
 
 The dataset includes employee details such as:
 
@@ -44,7 +44,7 @@ Attrition Status, Salary, and Years at Company
 
 (A publicly available HR dataset was used for analysis.)
 
-📈 Key Insights
+## 📈 Key Insights
 
 16.12% overall attrition rate with most exits in the R&D department (56%).
 
@@ -54,7 +54,7 @@ Sales and R&D roles saw notable job dissatisfaction.
 
 Female attrition (87) was lower than male attrition (150), suggesting possible role distribution gaps.
 
-🚀 Impact
+## 🚀 Impact
 
 The dashboard simplifies complex HR data into actionable insights, empowering decision-makers to:
 
